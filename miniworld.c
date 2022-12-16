@@ -31,4 +31,5 @@ int main()
             }
         }
     }
+    free(world);
 }
